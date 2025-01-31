@@ -1,3 +1,10 @@
+<p float="left">
+<a href = "https://www.python.org"> <img src="https://img.shields.io/badge/Language-Python-blue" alt="alt text"> </a>
+<a href = "https://www.wolfram.com"> <img src="https://img.shields.io/badge/Language-Wolfram Mathematica-blue" alt="alt text"> </a>
+<a href = "https://github.com/Mandy8808/Metodos_Numericos_2024.git"> <img src="https://img.shields.io/badge/version-1.0-red" alt="alt text"> </a>
+</p>
+
+
 # Implementation
 
 In this repository, we provide a collection of Python modules, as well as Jupyter and Mathematica notebooks, containing the numerical implementations and algorithms related to the results reported in the papers:
