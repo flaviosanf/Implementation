@@ -15,3 +15,6 @@ The repository Sign_CubicGrav_Strong comprises three folders:
 - ***Mathematica's notebook:*** This folder contains Mathematica notebooks presenting the analytical solutions for a static, spherically symmetric metric and the triangular configurations studied.
 - ***Python jupyter's notebooks:*** This folder contains Jupyter notebooks used to validate the Mathematica results and generate plots, as well as Python modules designed for constructing numerical solutions for a static, spherically symmetric metric.
 - ***Data:*** Files generated from the numerical solutions Module. These files are used to run certain Jupyter and Mathematica notebooks.
+
+> [!NOTE]  
+> Some notebooks have a specific path for obtaining or saving the data. Make sure to update them accordingly.
